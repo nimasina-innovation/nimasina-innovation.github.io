@@ -1,2 +1,2 @@
 # nimasina-innovation.github.io
-Official personal website of Nima Sina — researcher, inventor, and systems thinker working on the innovation, AI, and future systems.
+This site represents the professional work and ideas of Nima Sina, focusing on robotics, artificial intelligence, and systems innovation.
